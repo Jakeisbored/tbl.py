@@ -3,8 +3,8 @@
 
 ---
 
-<p>**** ➤Welcome to toxic bot list api python package docs!<br>
-➤ Docs*****<br>
+<p>** ➤Welcome to toxic bot list api python package docs!<br>
+➤ Docs**<br>
 <em><strong>There are too instances of this package are:</strong></em><br>
 ** ⇢ Bots**<br>
 <strong>⇢ Methods</strong><br>
