@@ -3,10 +3,10 @@
 
 ---
 
-<p>** ➤Welcome to toxic bot list api python package docs!<br>
-➤ Docs**<br>
+<p><strong> ➤Welcome to toxic bot list api python package docs!<br>
+➤ Docs</strong><br>
 <em><strong>There are too instances of this package are:</strong></em><br>
-** ⇢ Bots**<br>
+<strong>⇢ Bots</strong><br>
 <strong>⇢ Methods</strong><br>
 <strong>1 - get_info()</strong></p>
 <pre><code>@return : Returns the info about the given ID bot
